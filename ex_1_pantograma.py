@@ -1,4 +1,5 @@
-"""O Pantograma é uma sentença que contem todas as letras do alfabeto, ao menos um vez. Por exemplo, a sentença: Quem traz CD, LP, fax, engov e whisky JB? (29 letras).
+"""O Pantograma é uma sentença que contem todas as letras do alfabeto, ao menos um vez.
+Por exemplo, a sentença: Quem traz CD, LP, fax, engov e whisky JB? (29 letras).
 Desafio: Dada uma string, detecte se ela é ou não um Pantograma retornando True ou False. Ignore números, pontuações e acentos.
 
 Pantogramas para testes:
