@@ -1,5 +1,8 @@
 # PraticasExerciciosAmigosDevPro
 
+[![Python 3](https://pyup.io/repos/github/marcospsviana/PraticasExerciciosAmigosDevPro/python-3-shield.svg)](https://pyup.io/repos/github/marcospsviana/PraticasExerciciosAmigosDevPro/)
+[![Updates](https://pyup.io/repos/github/marcospsviana/PraticasExerciciosAmigosDevPro/shield.svg)](https://pyup.io/repos/github/marcospsviana/PraticasExerciciosAmigosDevPro/)
+
 ## Configurações inicias
 
 * Clonar repositório:
